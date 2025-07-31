@@ -2,7 +2,7 @@
 
 Ссылка на проект - https://web.telegram.org/a/#7786471117
 
-[скриншот 1] (https://github.com/stoyaltsev/ai_assistent/blob/main/TG_AI_assistent.png) 
+![скриншот 1] (https://github.com/stoyaltsev/ai_assistent/blob/main/TG_AI_assistent.png) 
 
 ## Описание проекта
 
